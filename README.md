@@ -1,5 +1,7 @@
-Digital Audio: Speech and Music lab sessions
+# Digital Audio: Speech and Music lab sessions
+
 3rd year Electronics Engineering and Signal Processing at INP-ENSEEIHT
+
 all notes are in French
 
 - `TP1.ipynb`: basic audio signal analysis, spectrogram, phonemes
